@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZAZAKU
-- 👀 I’m interested in ... 프로그램 공부 중..
-- 🌱 I’m currently learning ... AI 머신러닝..
+- 👀 관심이 ...AI 머신러닝(이미지 처리 및 데이터 처리분야)
+- 🌱 중입니다 ... AI 제작을 위해 공부중
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
